@@ -1,0 +1,6 @@
+@_078_CSharp_CleaningUpProgramFile_HostAddress = http://localhost:5258
+
+GET {{_078_CSharp_CleaningUpProgramFile_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
