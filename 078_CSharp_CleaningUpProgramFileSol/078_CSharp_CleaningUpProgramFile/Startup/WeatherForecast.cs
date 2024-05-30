@@ -1,4 +1,4 @@
-namespace _078_CSharp_CleaningUpProgramFile
+namespace _078_CSharp_CleaningUpProgramFile.Startup
 {
     public class WeatherForecast
     {
